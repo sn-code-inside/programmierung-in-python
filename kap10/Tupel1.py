@@ -1,0 +1,11 @@
+primzahlen = (2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31)
+print(primzahlen)
+adresse = ("Monthy","Python","Milchstrasse",42, 12345, "Universum")
+print(adresse)
+verschachteltestupel = ((1,2),(3,4))
+print(verschachteltestupel)
+tupel1 = (primzahlen,adresse)
+print(tupel1)
+tupel2 = ((2,3,5,7),(11,13,17))
+print(tupel2)
+
